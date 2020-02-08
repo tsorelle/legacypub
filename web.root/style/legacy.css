@@ -1,0 +1,41 @@
+body {
+font-style: normal; font-variant: normal; font-weight: normal; line-height: 
+      16pt; font-size:20pt; font-family: Tahoma, Ariel, sanserif; color: #006184;
+background-color:white; 
+border-style: none; border-width: 0px; margin: 0px; padding: 0px; background-position: 0%   }
+
+	
+div#pagebody { line-height: 16pt; font-size:12pt; font-family: Tahoma, Ariel, sanserif; color: #006184; text-align: left; background-color: white; }
+        
+            
+table td {padding: 3; border-width: 0; }
+table td {vertical-align: top; vertical-align: top; font: 65%; }
+h1 {font: 600%; font-weight:bold; font-style: ;font-family: sanserif; }
+h2 {font: 200%; font-weight:bold; font-style: ;font-family: sanserif; }
+h3 {font: 225%; font-weight:bold;  font-style: ; font-family: sanserif;}
+p {font: 135%; font-weight: normal; font-family: sanserif;}
+
+div#headercell {background-color:white;  margin-left:20px; margin-right: 20px;  }
+div#subhead {background-color:white; color: #006184; margin-left: 20px}
+
+div#footer {background-color:white; color:#006184; margin-left: 20px; font-size: 72%; padding-left:27px;  margin-right: 20px;}
+div#footer :hover {color: white; background-color:#006184;}
+div#footer a:hover {color: white; background-color:#006184;}   
+div#footer a {background-color: white; color: #006184; text-align: center;  padding: 3px; margin: 2px; width: 11em; text-decoration: none;}
+div#footer a {padding:2px; margin: 1px; }
+
+td#leftcol {   width:20%; padding-left:2px; text-align: center;}
+td#content { width: 85%; padding-left: 1px; padding-right:190px;} 
+
+div#content img {margin-right: 20px; margin-left:10px;margin-bottom:5px;}
+img#liz {margin-right: 20px; margin-bottom:5px;} 
+img#bob {margin-right: 20px; margin-bottom:5px;}
+img#grandparentssmall {margin-right: 20px; margin-left:10px;margin-bottom:5px;}
+img#momanddad {margin-right: 20px; margin-left:10px;margin-bottom:5px;}
+
+div#menu a {padding: 3px; margin: 2px; width: 10em; text-decoration: none; display: block; background-color: white; color:#006184; text-align: center; font: 115%; }
+div#menu .selecteditem {padding: 3px; margin: 2px; width: 15em; text-decoration: none; display: block; background-color: #006184; color:white;}
+div#menu a:hover {color: white; background-color:#006184}
+div#endinfo  {background-color:white;  text-align: center; margin-left:20px; margin-right: 20px; padding-top: 2px}
+
+
